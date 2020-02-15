@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>raimage.png</file>
+        <file>kmimage.png</file>
+        <file>config.xml</file>
+        <file>solo.png</file>
+        <file>solo2.png</file>
+        <file>eSmartSystems.png</file>
+        <file>9Tek.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!-- 81.167.21.33
+-->
+<ConfigData>
+
+    <Inputs>
+        <VideoAddressIn></VideoAddressIn>
+	<VPortIn>5600</VPortIn>
+        <UseVideoTCP>0</UseVideoTCP>
+
+        <TAddressIn></TAddressIn>
+        <TPortIn>14550</TPortIn>
+	<UseTTCP>0</UseTTCP>
+    </Inputs>
+
+    <Outputs>
+        <VideoUDPAddressOut1>127.0.0.1</VideoUDPAddressOut1>
+        <VideoUDPPortOut1>61011</VideoUDPPortOut1>
+        <VideoUDPAddressOut2>192.168.1.101</VideoUDPAddressOut2>
+        <VideoUDPPortOut2>5000</VideoUDPPortOut2>
+        <VideoUDPAddressOut3>192.168.1.103</VideoUDPAddressOut3>
+        <VideoUDPPortOut3>5000</VideoUDPPortOut3>
+        <VideoUDPAddressOut4>192.168.1.102</VideoUDPAddressOut4>
+        <VideoUDPPortOut4>5000</VideoUDPPortOut4>
+        <VideoTCPAddressOut></VideoTCPAddressOut>
+        <VideoTCPPortOut>0</VideoTCPPortOut>
+        <UseVideoTCPOut>0</UseVideoTCPOut>
+
+        <TUDPAddressOut1>127.0.0.1</TUDPAddressOut1>
+        <TUDPPortOut1>61041</TUDPPortOut1>
+        <TUDPAddressOut2>192.168.1.101</TUDPAddressOut2>
+        <TUDPPortOut2>14550</TUDPPortOut2>
+        <TUDPAddressOut3>192.168.1.103</TUDPAddressOut3>
+        <TUDPPortOut3>14550</TUDPPortOut3>
+        <TUDPAddressOut4>192.168.1.102</TUDPAddressOut4>
+        <TUDPPortOut4>14550</TUDPPortOut4>
+        <TTCPAddressOut></TTCPAddressOut>
+        <TTCPPortOut>0</TTCPPortOut>
+        <UseTTCPOut>0</UseTTCPOut>
+    </Outputs>
+
+</ConfigData>
